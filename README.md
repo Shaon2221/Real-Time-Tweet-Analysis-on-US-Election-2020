@@ -8,7 +8,7 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 # Steps
 1. Collect Data using Twitter API
 2. Clean Data
-3. Exploratory Data Analysisand Preprocessing
+3. Exploratory Data Analysis and Preprocessing
 4. Applying Techniques
 6. Evaluate results
 
