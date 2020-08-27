@@ -27,7 +27,7 @@ It shows a large number of people may in cofusion about which party would be bet
 <p align="left">
     <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/mst_frqnt_wrds.png' height=300 width=400>
 </p>
-From visualizing most frequent words from both parties, we can conclude they are facing specifically same issues toward 2020 election. Black peoples and spreading hate may be critical for both. "Black Lives Matter" movement may play an important role. They are both using those words to fulfill their agenda.</br></br>
+From visualizing most frequent words from both parties, we can conclude that they are facing specifically same issues toward 2020 election. Black peoples and spreading hate may be critical for both. "Black Lives Matter" movement may play an important role. They are both using those words to fulfill their agenda.</br></br>
 Found more insights! Please, go through full project to explore them.
 # Tools Used
 ### Python, Pandas, Matplotlib, Seaborn, NLTK,Textblob
