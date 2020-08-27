@@ -15,17 +15,17 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 # Results
 **Positive Percentage results respect to different party:**
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/results.png' height=400 width=600>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/results.png' height=400 width=400>
 </p></br>
 #### Comparison between two major party in United States:
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/comparing.jpeg' height=300 width=600>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/comparing.jpeg' height=300 width=400>
 </p></br>
 #### Most frequent word used by people regarding US Election:
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/mst_frqnt_wrds.png' height=300 width=600>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/mst_frqnt_wrds.png' height=300 width=400>
 </p>
-
+Found more insights! Please, go through full project to explore them.
 # Tools Used
 ### Python, Pandas, Matplotlib, Seaborn, NLTK,Textblob
 
