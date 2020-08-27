@@ -17,7 +17,7 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 <p align="left">
     <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/results.png' height=200 width=400>
 </p></br>
-Democrats are just 3% ahead of Republican! 32% positve about Democrat whether 29% people positive about republican. This election is neck-and-neck for Biden and Trump. </br></br>
+Democrats are just 3% ahead of Republican! 32% positve about Democrat whether 29% people positive about Republican. This election is neck-and-neck for Biden and Trump. </br></br>
 **Comparison between two major party in United States:**
 <p align="left">
     <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/comparing.jpeg' width=400>
