@@ -1,5 +1,5 @@
 # Motivation
-Politics is unavoidable. It plays an important role in our daily life, we like it or not! Election of United States of America will be held on 3rd November,2020. Every maintstream media and think-tanks are doing survey and rsearch. I wanted to do it on my way!
+Politics is unavoidable. It plays an important role in our daily life, we like it or not! The election of the United States of America will be held on 3rd November 2020. Every mainstream media and think-tanks are doing surveys and research. I wanted to do it in my way!
 
 # Objectives
 - Creating a report similar to conventional survey
