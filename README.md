@@ -4,13 +4,21 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 # Objectives
 - Creating a report similar to conventional survey
 - Find out insights
+- Candidate popularity and engagement
+- Buzz and significant ideologies which creating impact
+- Opinion polarization
+- Visualizing real-time data plot
+- Finding which candidate is leading in the race. 
+- Reasonable explanation 
+- How it is potentially impacting on Election
 
-# Steps
+# Research Methodology
 1. Collect Data using Twitter API
 2. Clean Data
 3. Exploratory Data Analysis and Preprocessing
-4. Applying Techniques
-6. Evaluate results
+
+#Sentiment Model Building
+- will add asap
 
 # Results
 **Positive Percentage results respect to different party:**
@@ -32,7 +40,7 @@ Found more insights! Please, go through full project to explore them.
 
 
 # Tools Used
-### Python, Pandas, Matplotlib, Seaborn, NLTK,Textblob
+### Python, Pandas, Matplotlib, Seaborn, NLTK, TextBlob
 
 _Any recommendation or correction is highly appreciated. Thank You_
 
