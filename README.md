@@ -17,7 +17,7 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 2. Clean Data
 3. Exploratory Data Analysis and Preprocessing
 
-#Sentiment Model Building
+# Sentiment Model Building
 - will add asap
 
 # Results
