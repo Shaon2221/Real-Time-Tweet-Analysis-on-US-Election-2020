@@ -28,12 +28,12 @@ NLP, NLTK Corpus, TextBlob Sentiment Analysis, US Election 2020, Data Preprocess
 # Results
 **Positive Percentage results respect to different party:**
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/image(3).png' height=200 width=400>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/image (3).png' height=200 width=400>
 </p></br>
 Democrats are just 3% ahead of Republican! 32% positve about Democrat whether 29% people positive about Republican. This election is neck-and-neck for Biden and Trump. </br></br>
 **Comparison between two major party in United States:**
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/image(2).png' width=400>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/image (2).png' width=400>
 </p></br>
 It shows a large number of people may in cofusion about which party would be better! It is challenging for both party to convince them before election. </br></br>
 **Most frequent word used by people regarding US Election:**
