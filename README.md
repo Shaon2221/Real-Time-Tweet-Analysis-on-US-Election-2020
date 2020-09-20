@@ -22,7 +22,7 @@ NLP, NLTK Corpus, TextBlob Sentiment Analysis, US Election 2020, Data Preprocess
 
 # Sentiment Model Building
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/figure-4.png' height=200 width=400>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/figure-4.png' height=600 width=400>
 </p></br>
 
 # Results
