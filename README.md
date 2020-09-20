@@ -21,12 +21,14 @@ NLP, NLTK Corpus, TextBlob Sentiment Analysis, US Election 2020, Data Preprocess
 3. Exploratory Data Analysis and Preprocessing
 
 # Sentiment Model Building
-
+<p align="left">
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/results.png' height=200 width=400>
+</p></br>
 
 # Results
 **Positive Percentage results respect to different party:**
 <p align="left">
-    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/results.png' height=200 width=400>
+    <img src='https://raw.githubusercontent.com/Shaon2221/Real-Time-Tweet-Analysis-on-US-Election-2020/master/figure-4.png' height=200 width=400>
 </p></br>
 Democrats are just 3% ahead of Republican! 32% positve about Democrat whether 29% people positive about Republican. This election is neck-and-neck for Biden and Trump. </br></br>
 **Comparison between two major party in United States:**
