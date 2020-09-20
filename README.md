@@ -1,5 +1,8 @@
-# Motivation
-Politics is unavoidable. It plays an important role in our daily life, we like it or not! The election of the United States of America will be held on 3rd November 2020. Every mainstream media and think-tanks are doing surveys and research. I wanted to do it in my way!
+# Abstract
+Social networking sites have become an indispensable part of the business and political campaigns. Therefore, it contains much information that can be used to predict market supply-demand or political popularity. People express their views on any issue on social media; those data, later on, can be utilized to understand the stance of the people on a particular issue. In this paper, we use real-time twitter data expressing views on issues of the USA Presidential Election. We explored the data to make the insight, and, then based on the insight, we applied the TextBlob library to find the polarity. What we have derived from the experiment, we utilize the outcome to interpret the data. Thus we reached an end commenting on both parties present situation. To complete this paper, we use the NLTK sentiment analysis package along with the TextBlob library of python.
+
+# Keywords
+NLP, NLTK Corpus, TextBlob Sentiment Analysis, US Election 2020, Data Preprocessing
 
 # Objectives
 - Creating a report similar to conventional survey
@@ -18,7 +21,7 @@ Politics is unavoidable. It plays an important role in our daily life, we like i
 3. Exploratory Data Analysis and Preprocessing
 
 # Sentiment Model Building
-- will add asap
+
 
 # Results
 **Positive Percentage results respect to different party:**
